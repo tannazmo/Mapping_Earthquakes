@@ -14,7 +14,7 @@ Tectonic plate data has been added to the map as a new overlay layer.
 Major Earthquake data has been added to the map as a new overlay layer.
 ![Major_Earthquake](practice/images/del2.png "major earthquake map overlay layer")
 
-## Deliverable 1:
+## Deliverable 3:
 A different style map (Dark Map) has been added to the map as an additional base layer.
 ![Dark_Map](practice/images/del3.png "dark map base layer")
 
